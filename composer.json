@@ -1,0 +1,12 @@
+{
+    "name": "lika1995/validator",
+    "description": "exam validator",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Lika Yan",
+            "email": "likusya865@gmail.com"
+        }
+    ],
+    "require": {}
+}
